@@ -2,7 +2,7 @@ module.exports.config = {
  name: "info",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "SHAHADAT SAHU",
+ credits: "Saiful islam",
  description: "Bot information command",
  commandCategory: "For users",
  hide: true,
